@@ -17,9 +17,14 @@ Windows10555 会和不会的一些东西：
 - [x] MarkDown
 - [ ] LaTeX
 - [ ] C#
+- [ ] PHP
 - [ ] Unity
 - [ ] Unreal Engine
 
 ~~Windows10555基本啥都不会别委托~~
 
-更多的数据将放在官网里。
+<div style="text-align:center">
+  这里被访问了
+  <br />
+  <img src="https://profile-counter.glitch.me/Windows10555/count.svg" />次
+</div>
