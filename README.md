@@ -8,6 +8,7 @@ ___
 |GitHub|就是这|
 |BiliBili|[这里！](https://space.bilibili.com/470565541 "无人问津的B站")|
 |官网|[这里！](https://www.windows10555.gq/ "比这里完整的多")|
+|XChat（识别码Win105）|[这里！](https://xq.kzw.ink/?xq102210 "很好的聊天室，绝大多数时间我在那里")|
 ___
 Windows10555 会和不会的一些东西：
 - [x] HTML
