@@ -6,15 +6,13 @@ ___
 |:-:|:-:|
 |GitHub|就是这|
 |BiliBili|[这里！](https://space.bilibili.com/470565541 "无人问津的B站")|
-|官网|[这里！](https://www.windows10555.gq/ "比这里完整的多")|
-|Blog|[这里！](https://blog.windows10555.gq "时不时掉线的服务器")|
+|官网|[这里！](https://team-105.cloudwl.com/ "比这里完整的多")|
+|Blog|[这里！](https://blog-105.whrstudio.top "时不时掉线的服务器")|
 ___
 对于我们可以做到的：
 * 简单的页面
-* 免费的域名
-* 无害的友链（需验证）
 * 少量的功能
-* 更多更多……
+* 咕咕
 
 <details>
 <summary>可以赞助空气的赞助</summary>
