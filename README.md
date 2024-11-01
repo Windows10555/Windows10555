@@ -6,22 +6,15 @@ ___
 |:-:|:-:|
 |GitHub|就是这|
 |BiliBili|[这里！](https://space.bilibili.com/470565541 "无人问津的B站")|
-|官网|[这里！](https://team-105.cloudwl.com/ "比这里完整的多")|
-|Blog|[这里！](https://blog-105.whrstudio.top "时不时掉线的服务器")|
+|官网|[这里！](https://windows10555.github.io/ "比这里完整的多")|
 ___
 对于我们可以做到的：
 * 简单的页面
 * 少量的功能
 * 咕咕
 
-<details>
-<summary>可以赞助空气的赞助</summary>
-嘿，朋友，相信看到赞助俩字肯定是不会看的。<br />
-但我们仍然希望你可以为我们提供点什么，任何的。<br />
-所以……我们希望您可以：<br />
- 给我们发一封邮件（见主页），让我们知道您在鼓励我们。<br />
- 如果是线下朋友，捐赠个泡面钱？<br />
-</details>
+五欢迎赞助的，就是说…你应该要看[这个赞助码](https://efchat.echosystem.uk/imgs/IrQR.png)。
+
 最后，感谢你访问这里。  
 
 这里被访问了
