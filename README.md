@@ -1,23 +1,40 @@
-## 你好，朋友！
-这是Windows10555的GitHub账号，同时也属于Windows10555 Team的。  
-在这个账号我们会放置大大小小的，乱七八糟的东西。
-___
-|Windows10555自己的账号|快去看看|
-|:-:|:-:|
-|GitHub|就是这|
-|BiliBili|[这里！](https://space.bilibili.com/470565541 "无人问津的B站")|
-|官网|[这里！](https://windows10555.github.io/ "比这里完整的多")|
-___
-对于我们可以做到的：
-* 简单的页面
-* 少量的功能
-* 咕咕
+# 🌟 Welcome to IW's Github 🌟
 
-五欢迎赞助的，就是说…你应该要看[这个赞助码](https://efchat.echosystem.uk/imgs/IrQR.png)。
+~~also for WTek!~~
+## About Us
+The Windows10555 Team (WTek, 五组) is a non-profit project group founded by 伊琳 鶩子 (Irinu Wakako). We focus on creating small but useful projects while balancing our academic commitments. Our primary server, known as the WNetwork (五语), is the backbone of our operations, with additional servers generously donated by third parties.
+## We can...
 
-最后，感谢你访问这里。  
+- Create simple yet functional projects.
+- Build a community where technology and creativity meet.
+- Share knowledge and collaborate with like-minded individuals.
 
-这里被访问了
-<br />
-<img src="https://profile-counter.glitch.me/Windows10555/count.svg" />次
+## Team Members
 
+- 伊琳 鶩子: The mastermind behind WTek. Always busy with numerous projects and ideas.	
+- wzhjq2ds: Provides material support and helps keep the team’s spirits high.	
+- YangSuF: The creative force, always coming up with innovative ideas.	
+## Projects
+
+- GitHub Projects: Check out our GitHub for various coding projects and collaborations.
+- **E**on**F**ive**C**hat (恒五聊): A chat platform designed for easy communication and collaboration. **Chinese only**.
+- WNetwork: Our main server group, hosting multiple services and projects.
+
+## Contact Us
+
+- Email: [IW's Email](mailto:Windows10555@qq.com)
+- QZone: Find the link on the [WTek Homepage](#quick-links)(Chinese Only).
+- EFC: Ask on [EFC](#quick-links).
+
+## Server Status
+![Status for WNetwork WNya](https://img.shields.io/website?url=https://efchat.melon.fish&up_message=Up&down_message=Down&style=for-the-badge&label=WNetWnya)
+## Quick Links
+
+[WTek Homepage](https://windows10555.github.io)
+
+[EFC](https://efchat.melon.fish)
+
+[BiliBili Channel](https://space.bilibili.com/470565541)
+
+----
+Thank you for visiting our GitHub page! We appreciate your interest and support. 🚀
